@@ -1,13 +1,13 @@
 # Sales Analysis
 
--[Project Overview](#project-overview) 
--[Data sources](#data-sources)
--[Tools used](#tools-used)
--[Data Cleaning](#data-cleaning) 
--[Exploratory Data Analysis](#exploratory-data-analysis)
--[Pivot Summarization](#pivot-summarization) 
--[Sql Queries](#sql-queries)
--[Data Visualization](#data-visualization) 
+- [Project Overview](#project-overview) 
+- [Data sources](#data-sources)
+- [Tools used](#tools-used)
+- [Data Cleaning](#data-cleaning) 
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Pivot Summarization](#pivot-summarization) 
+- [Sql Queries](#sql-queries)
+- [Data Visualization](#data-visualization) 
 
 
 ### Project Overview 
@@ -32,7 +32,7 @@ In the initial data preparation phase, i performed the following tasks;
 3. Data cleaning and  formatting 
 
 ### Exploratory Data Analysis 
-
+---
 EDA Involved exploring the sales data to answer key questions, susch as; 
 
 - what is the overall sales trend?
@@ -40,6 +40,7 @@ EDA Involved exploring the sales data to answer key questions, susch as;
 - what is the average revenue generated?
 
 ### Pivot Summarization 
+---
 Below are the summarization of the pivot tables created in Excel 
 - Total sales by product
 - Total sales by region
@@ -51,6 +52,7 @@ Below are the summarization of the pivot tables created in Excel
 
 
   ### Sql Queries
+  ---
   Here are the SQL queries that I used to extract insights from the sales data.
   
   1 Total sales for each product category
@@ -111,6 +113,7 @@ where revenue is null;
 ```
 
 ### Data Visualization 
+---
 Here is the dashboard visualization insights found in the excel and sql 
 
 <img width="520" alt="visualization " src="https://github.com/user-attachments/assets/c59f72ca-b88a-47cf-ad29-461416147b47">
