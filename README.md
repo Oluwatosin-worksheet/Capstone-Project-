@@ -62,6 +62,7 @@ GROUP BY Region;
 
 select product from  `my capstone 1 csv`
 where revenue is null;
+```
 
 ### Results/Findings 
 
