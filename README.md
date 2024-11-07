@@ -95,6 +95,6 @@ select product from  `my capstone 1 csv`
 where revenue is null;
 ```
 
+### Data Visualization 
 
-### Results/Findings 
 
