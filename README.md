@@ -28,21 +28,38 @@ EDA Involved exploring the sales data to answer key questions, susch as;
 - which region has top sales?
 - what is the average revenue generated?
 
-  ### Data Analysis
+### Pivot Summarization 
+- Total sales by product
+- Total sales by region
+- Total sales by Month
+- Average sales per product
+- Total revenue per Month 
 
+  ### Sql Queries
+  Here are the SQL queries that I used to extract insights from the sales data.
+  1 Total sales for each product category
+  
   ```sql 
  SELECT * FROM my_capstone.`my capstone 1 csv`;
 select product, sum(revenue) AS Total_sales from  `my capstone 1 csv`
 group by product;
 
+2 Total sales per region
+
+  ```sql
 select Region, count(quantity) as region_sales from `my capstone 1 csv`
 group by region;
+```
 
+3 Highest selling product
+
+```sql
 SELECT product, SUM(quantity * unitprice) AS total_sales_value
 FROM `my capstone 1 csv`
 GROUP BY product
 ORDER BY total_sales_value desc
 limit 1;
+```
 
 select product, sum(revenue) as Total_revenue from `my capstone 1 csv`
 group by product;
@@ -63,6 +80,7 @@ GROUP BY Region;
 select product from  `my capstone 1 csv`
 where revenue is null;
 ```
+
 
 ### Results/Findings 
 
