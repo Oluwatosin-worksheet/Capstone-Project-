@@ -39,6 +39,7 @@ EDA Involved exploring the sales data to answer key questions, susch as;
 - what is the average revenue generated?
 
 ### Pivot Summarization 
+Below are the summarization of the pivot tables created in Excel 
 - Total sales by product
 - Total sales by region
 - Total sales by Month
@@ -109,6 +110,7 @@ where revenue is null;
 ```
 
 ### Data Visualization 
+Here is the dashboard visualization insights found in the excel and sql 
 
 <img width="520" alt="visualization " src="https://github.com/user-attachments/assets/c59f72ca-b88a-47cf-ad29-461416147b47">
 
