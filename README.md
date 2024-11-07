@@ -114,7 +114,7 @@ where revenue is null;
 
 ### Data Visualization 
 ---
-Here is the dashboard visualization insights found in the excel and sql 
+Here is the Power BI dashboard visualization insights found in the excel and sql 
 
 <img width="520" alt="visualization " src="https://github.com/user-attachments/assets/c59f72ca-b88a-47cf-ad29-461416147b47">
 
