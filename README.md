@@ -97,4 +97,6 @@ where revenue is null;
 
 ### Data Visualization 
 
+<img width="520" alt="visualization " src="https://github.com/user-attachments/assets/c59f72ca-b88a-47cf-ad29-461416147b47">
+
 
