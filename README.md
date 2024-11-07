@@ -33,7 +33,10 @@ EDA Involved exploring the sales data to answer key questions, susch as;
 - Total sales by region
 - Total sales by Month
 - Average sales per product
-- Total revenue per Month 
+- Total revenue per Month
+
+<img width="754" alt="excel screenshot" src="https://github.com/user-attachments/assets/dea40db1-1a3d-4ac5-a1c2-478da6844063">
+
 
   ### Sql Queries
   Here are the SQL queries that I used to extract insights from the sales data.
