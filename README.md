@@ -1,5 +1,15 @@
 # Sales Analysis
 
+[Project Overview](#project-overview) 
+[Data sources](#data-sources)
+[Tools used](#tools-used)
+[Data Cleaning](#data-cleaning) 
+[Exploratory Data Analysis](#exploratory-data-analysis)
+[Pivot Summarization](#pivot-summarization) 
+[Sql Queries](#sql-queries)
+[Data Visualization](#data-visualization) 
+
+
 ### Project Overview 
 This data Analysis project aims to provcide insights into the sales performance of a retail store. By analysing and to explore sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends.
 
@@ -7,13 +17,13 @@ This data Analysis project aims to provcide insights into the sales performance 
 
 Sales Data: The primary dataset used for this analysis is the "Lita Capstone Dataset" file, containing detailed information about the each sales made by the retail store.
 
-### Tools 
+### Tools used
 
 - Excel- Data cleaning [Download here](https://microsoft.com)
 - Sql server- Data Analysis
 - Power BI- Creating report
 
-### Data Cleaning/Preparation 
+### Data Cleaning
 
 In the initial data preparation phase, i performed the following tasks;
 1. Data loading and inspection
