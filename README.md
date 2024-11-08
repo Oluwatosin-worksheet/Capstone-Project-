@@ -22,7 +22,7 @@ Sales Data: The primary dataset used for this analysis is the "Lita Capstone Dat
 ---
 - Excel- Data cleaning [Download here](https://microsoft.com)
 - Sql server- Data Analysis
-- Power BI- Creating report
+- Power BI- Creating reports
 
 ### Data Cleaning
 ---
